@@ -1,0 +1,41 @@
+/* Base */
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: sans-serif;
+  color: #404040;
+}
+
+/* Global */
+
+
+/* Seção nav */
+
+.nav-caixa {
+  background-color: #5F0000;
+  position: relative;
+}
+
+.nav-caixa img {
+  display: inline-block;
+}
+
+#logo-limmas-esfiharia {
+  width: 25rem;
+  height: 6.5rem;
+}
+
+#icone-nav {
+  height: 6rem;
+  position: absolute;
+  right: 0;
+  
+}
