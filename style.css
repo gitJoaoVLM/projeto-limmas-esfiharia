@@ -16,12 +16,11 @@ body {
 
 /* Global */
 
-
 /* Seção nav */
 
 .nav-caixa {
-  background-color: #5F0000;
-  position: relative;
+  background-color: #5f0000;
+  height: 8rem;
 }
 
 .nav-caixa img {
@@ -31,11 +30,12 @@ body {
 #logo-limmas-esfiharia {
   width: 25rem;
   height: 6.5rem;
+  padding: 0.6rem 0 0 0.5rem;
 }
 
 #icone-nav {
-  height: 6rem;
   position: absolute;
   right: 0;
-  
+  padding: 1.9rem 0 0 0;
+  height: 4rem;
 }
